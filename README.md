@@ -6,4 +6,6 @@ This is an [XSLT](http://en.wikipedia.org/wiki/XSLT) stylesheet to turn [sitemap
 Getting Started
 ---------------
 
-Fire up the XSLT engine of your choice, feeding it your sitemap.xml and sitemap.xsl to get a shiny new sitemap.html
+ 1. Fire up the XSLT engine of your choice
+ 2. Feed it your sitemap.xml and sitemap.xsl
+ 3. Get a shiny new sitemap.html
